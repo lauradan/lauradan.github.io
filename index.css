@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+/* general text formatting */
+
+body {
+    background-color: #D0C9EA;
+    font-family: "Times New Roman", serif;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 1em; /* Position the navbar at the top of the page */
+    left:0;
+    width: 100%; /* Full width */
+}
+
+.navbarbottom{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 1em;
+    left: 0;
+    width: 100%;
+}
+
+.navbar a, .navbarbottom a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+h1 {
+    margin: 2em 0 0.5em 0;
+    font-size: 3em;
+    color: black;
+    padding-left: 0.166em;
+    padding-bottom: 0.166em;
+    text-align: center
+}
+
+div.box{
+    border: 8px double black;
+    /*display to block?????*/
+}
+
+div.box h2 {
+    font-size: 1.5em;
+    color: black;
+    padding-left: 0.4em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+}
+
+div.box p {
+    padding-left: 0.5em;
+    margin: 0 0em 0.2em 0;
+}
+
+form{
+    padding: 0.5em;
+    text-align: center;
+}
