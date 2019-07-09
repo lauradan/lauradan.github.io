@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7383ee-2336-4fc8-9ab7-e866c989f77f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/resume.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/resume.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/resume.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="193">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -42,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="157">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -88,15 +85,15 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/css/resume.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="170" />
-    <option name="y" value="23" />
+    <option name="x" value="518" />
+    <option name="y" value="96" />
     <option name="width" value="726" />
     <option name="height" value="749" />
   </component>
@@ -112,17 +109,6 @@
             <path>
               <item name="lauradan.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="lauradan.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lauradan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lauradan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lauradan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lauradan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="resume.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -180,6 +166,7 @@
       <workItem from="1561496379279" duration="2927000" />
       <workItem from="1561949804586" duration="117000" />
       <workItem from="1561950480223" duration="549000" />
+      <workItem from="1562696577061" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="making sure it exists :)">
       <created>1560399457207</created>
@@ -192,13 +179,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13335000" />
+    <option name="totallyTimeSpent" value="13381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="170" y="23" width="726" height="749" extended-state="0" />
+    <frame x="518" y="96" width="726" height="749" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29385966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3026316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,9 +197,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32935917" />
-      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.31659058" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.31659058" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.26027396" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26027396" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -312,6 +299,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_bootstrap-overrides.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -322,27 +316,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_bootstrap-overrides.scss">
+    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="157">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="193">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
